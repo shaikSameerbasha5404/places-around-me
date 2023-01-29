@@ -186,11 +186,8 @@ sail.html
 </html>
 ```
 ## Output
-![sec](https://user-images.githubusercontent.com/118707756/215306187-7f29b4d1-965f-4098-818e-b61a0dce39f0.png)
-![admin](https://user-images.githubusercontent.com/118707756/215306212-3e0f75fb-36f1-4728-a14b-e27781c35bb2.png)
-![cse](https://user-images.githubusercontent.com/118707756/215306241-25999be4-4103-428d-aa3d-6fc4d240d79f.png)
-![ECE](https://user-images.githubusercontent.com/118707756/215306254-6ffd39f0-f0ec-4d46-b43d-427d7d396c4b.png)
-![EEE](https://user-images.githubusercontent.com/118707756/215306277-d49f2784-dfbc-4c22-ab40-a957a7cb5405.png)
-![sail](https://user-images.githubusercontent.com/118707756/215306291-5b1da98e-fd7f-4d7d-bf3f-ccbb415ad70b.png)
+
+![sec](https://user-images.githubusercontent.com/118707756/215306364-d6737077-ec15-401b-85cd-4d8cd8e02185.png)
+
 ## Result:
 code is sucessfully verified.
