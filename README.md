@@ -11,8 +11,7 @@ maps. https://www.image-maps.com/
 ### Step 3
 Develop a webpage(minimum of 50 words) for each location and link it to the image region
 ## Code:
-```
-html
+```html
 home.html
 <!DOCTYPE html>
 <html lang="en">
