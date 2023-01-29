@@ -189,5 +189,14 @@ sail.html
 
 ![sec](https://user-images.githubusercontent.com/118707756/215306364-d6737077-ec15-401b-85cd-4d8cd8e02185.png)
 
+![admin](https://user-images.githubusercontent.com/118707756/215306459-ec4b1aa3-ef6b-4751-9320-c1f65c09760b.png)
+
+![cse](https://user-images.githubusercontent.com/118707756/215306472-491c05eb-cf52-46e6-9358-b596bb8b5ec8.png)
+
+![ECE](https://user-images.githubusercontent.com/118707756/215306484-e3bf6ce7-5acc-4c6e-a66c-8c43b08b1573.png)
+
+![EEE](https://user-images.githubusercontent.com/118707756/215306493-7fa64924-3304-4c36-a23c-baabfd3e78cb.png)
+
+![sail](https://user-images.githubusercontent.com/118707756/215306533-81459137-c705-44df-8885-70219730091f.png)
 ## Result:
 code is sucessfully verified.
